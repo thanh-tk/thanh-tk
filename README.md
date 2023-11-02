@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanh-tk
 
-- Why I'm here?
+Why I'm here?
 
 I'm on GitHub to learn from other developers, contribute to open-source projects, and build innovative and impactful software. I'm always looking for new challenges and opportunities to grow.
 
